@@ -1,0 +1,38 @@
+¿Qué es HTML y para qué sirve?
+es el lenguaje fundamental para estructurar y dar contenido a las páginas web, usando etiquetas para organizar textos, imágenes, videos y enlaces, permitiendo que los navegadores los muestren
+
+
+¿Cuál es la diferencia entre HTML, CSS y Javascript?
+HTML define la estructura (el esqueleto) de una web, CSS controla el estilo y diseño visual (la apariencia), y JavaScript añade interactividad y comportamiento dinámico (los músculos que le dan vida)
+
+
+¿Por qué HTML no es un lenguaje de programación?
+no tiene lógica, variables, funciones ni estructuras de control
+
+
+¿Cuál es la estructura básica de un archivo HTML etiqueta? head y body
+La estructura básica de un archivo HTML incluye la declaración
+<!DOCTYPE html>, la etiqueta raíz <html>, la cabecera <head> (con metadatos, título) y el cuerpo <body> (con todo el contenido visible como texto, imágenes y enlaces), organizadas jerárquicamente para definir el documento y su contenido interactivo
+
+
+¿Qué es una etiqueta en HTML?, Específica e identifica la etiqueta de cierre y apertura de contenido. 
+Una etiqueta HTML es un fragmento de código entre corchetes angulares
+< > que estructura y da significado al contenido web, indicando al navegador cómo mostrarlo, como un párrafo <p> o un título <h1>. Se compone de una etiqueta de apertura (<nombre>), el contenido (texto, imágenes, etc.) y una etiqueta de cierre (</nombre>), que marca el final del elemento para que el navegador sepa dónde empiezan y terminan sus propiedades
+
+
+¿Qué es un atributo en HTML y para qué sirven?
+Un atributo HTML es información adicional que modifica o mejora un elemento HTML, configurando su comportamiento o proporcionando metadatos, y siempre se añade dentro de la etiqueta de apertura como nombre="valor", siendo cruciales para la funcionalidad (como href en enlaces) y estilos (como class para CSS)
+
+
+¿Cuál es el atributo class?
+El atributo class en HTML se usa para asignar uno o más nombres de clase a un elemento
+
+
+¿Cuál es el atributo id?
+define un identificador único para un elemento dentro de una página web
+
+
+¿Cómo se escribe un atributo? Pon un ejemplo y la estructura:
+Un atributo se define dentro de la etiqueta de apertura de un elemento HTML, siguiendo la estructura básica de nombre="valor"
+
+
